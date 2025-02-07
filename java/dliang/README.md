@@ -33,6 +33,7 @@ _should be 0.8392857142857143_
 Write a program that displays current time in GMT in hour:minute:second format converted from `System.currentTimeMillis(), 
 without using any packages or libraries.
 
+
 **2.18 Case Study**
 
 Develop a program  lets the user enter an amount as a value representing a total in dollars and cents, and outputs a 
@@ -42,3 +43,27 @@ in this order, to result in the minimum number of coins.
 Ex:
 - Input: 11.56
 - Output: "11 dollars, 2 quarters, 0 dimes, 1 nickels, and 1 pennies"
+
+
+**2.1**
+
+Write a program that reads a Celsius degree in a  value from the console, then converts it to Fahrenheit, and 
+displays the result. The formula for the conversion is as follows: `f = (9/5) * c + 32`
+
+
+**2.5**
+
+Write a program that reads subtotal and gratuity rate, then computes the gratuity and total.
+
+Ex:
+- Input: 10 subtotal, 15% gratuity rate
+- Output: 11.5 total, 1.5 gratuity
+
+
+**2.6**
+
+Write a program that reads an integer between 0 and 1000 and adds all the digits in the integer
+
+Ex:
+- Input: 932
+- Output: 14
