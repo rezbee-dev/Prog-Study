@@ -67,3 +67,18 @@ Write a program that reads an integer between 0 and 1000 and adds all the digits
 Ex:
 - Input: 932
 - Output: 14
+
+## CH3 - Selections
+
+**3.5**
+
+Write a program that prompts the user to enter an integer for today's day of the week 
+(Sunday is 1, Monday is 2, . . . , and Saturday is 7). 
+Also prompt the user to enter the number of days after today for a future day and display the future day of the week.
+
+Ex:
+```
+Enter today’s day of week (1 to 7): 2
+Enter the number of days elapsed since today: 3
+Today is Monday and the future day is Thursday
+```
